@@ -1,0 +1,16 @@
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\bin\Debug\ExpenseTrackerProjectRasul.exe.config
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\bin\Debug\ExpenseTrackerProjectRasul.exe
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\bin\Debug\ExpenseTrackerProjectRasul.pdb
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.csproj.AssemblyReference.cache
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.Login.resources
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.Properties.Resources.resources
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.csproj.GenerateResource.cache
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.csproj.CoreCompileInputs.cache
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.exe
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.pdb
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.MainPage.resources
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.SingUp.resources
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.AddExpense.resources
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.DetailsFilterPage.resources
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.ShowDetails.resources
+C:\Users\rasul\source\repos\ExpenseTrackerProjectRasul\ExpenseTrackerProjectRasul\obj\Debug\ExpenseTrackerProjectRasul.ChangePassWord.resources
